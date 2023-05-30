@@ -117,9 +117,6 @@ body{
     text-transform: capitalize;
 }
 
-.team{
-    background-color: #F4F4FD
-}
 .team-title {
     color:#2E2F42;
     font-weight: 700;
@@ -129,9 +126,10 @@ body{
     text-align: center;
     text-transform: capitalize;
 }
-.team-menu-list{
-    background-color: #FFFFFF ;
-}
+
+.team-menu-item{
+        background-color: #FFFFFF;
+    }
 
 .team-item-title {
     color:#2E2F42;
@@ -206,4 +204,5 @@ body{
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
+    letter-spacing: 0.02em;
 }
