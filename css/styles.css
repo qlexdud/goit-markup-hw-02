@@ -45,7 +45,7 @@ body{
     color: #404bbf
 }
 
-.header-contact{
+.header-contacts{
     font-style: normal;
 }
 .header-contacts-item {
@@ -130,8 +130,9 @@ body{
     text-transform: capitalize;
 }
 .team-menu-list{
-    background: #FFFFFF ;
+    background-color: #FFFFFF ;
 }
+
 .team-item-title {
     color:#2E2F42;
     font-weight: 500;
