@@ -129,10 +129,11 @@ body{
     text-align: center;
     text-transform: capitalize;
 }
-.team-item-image{
+.team-menu-list{
     background: #FFFFFF ;
 }
 .team-item-title {
+    color:#2E2F42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -165,7 +166,7 @@ body{
     text-transform: uppercase;
 }
 .logo-span-footer{
-    color: #f4f4fd;
+    color: #F4F4FD;;
 }
 
 .portfolio-button {
