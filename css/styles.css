@@ -13,9 +13,8 @@ body{
     ;
 }
 
-.logo {
+.logo-header {
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -89,7 +88,9 @@ body{
     line-height: 1.11;
     letter-spacing: 0.02em;
 }
-
+.team-item-image{
+    background: url(man-with-laptop-presenting-something.jpg);
+}
 .team-item-title {
     font-weight: 500;
     font-size: 20px;
@@ -109,4 +110,45 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#F4F4FD;
+}
+.logo-footer {
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #F4F4FD;
+}
+
+.portfolio-button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4D5AE5;
+    cursor: pointer;
+
+}
+.portfolio-button:hover{
+    color: #FFFFFF;
+}
+.portfolio-button:focus{
+    color: #FFFFFF;
+}
+
+.portfolio-feature-image {
+    background: url(4074365.jpg);
+}
+
+.portfolio-feature-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-feature-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
 }
